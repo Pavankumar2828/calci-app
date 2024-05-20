@@ -10,7 +10,7 @@ class CalciImpln implements Calci {
     }
 }
 
-class CalciDriver {
+public class CalciDriver {
     public static void main(String[] args) {
         System.out.println("Enter 2 number");
         Scanner sc = new Scanner(System.in);
